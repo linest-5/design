@@ -1,0 +1,18 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Project/Code/CDC/Multi_Bit/Multi_f2s/multi_bit_f2s/multi_bit_f2s.v" into library xil_defaultlib
+WARNING: [VRFC 10-159] /* in comment [E:/Project/Code/CDC/Multi_Bit/Multi_f2s/multi_bit_f2s/multi_bit_f2s.v:4]
+WARNING: [VRFC 10-159] /* in comment [E:/Project/Code/CDC/Multi_Bit/Multi_f2s/multi_bit_f2s/multi_bit_f2s.v:5]
+WARNING: [VRFC 10-159] /* in comment [E:/Project/Code/CDC/Multi_Bit/Multi_f2s/multi_bit_f2s/multi_bit_f2s.v:6]
+WARNING: [VRFC 10-159] /* in comment [E:/Project/Code/CDC/Multi_Bit/Multi_f2s/multi_bit_f2s/multi_bit_f2s.v:7]
+WARNING: [VRFC 10-159] /* in comment [E:/Project/Code/CDC/Multi_Bit/Multi_f2s/multi_bit_f2s/multi_bit_f2s.v:8]
+WARNING: [VRFC 10-159] /* in comment [E:/Project/Code/CDC/Multi_Bit/Multi_f2s/multi_bit_f2s/multi_bit_f2s.v:9]
+WARNING: [VRFC 10-159] /* in comment [E:/Project/Code/CDC/Multi_Bit/Multi_f2s/multi_bit_f2s/multi_bit_f2s.v:10]
+INFO: [VRFC 10-311] analyzing module multi_bit_f2s
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Project/Code/CDC/Multi_Bit/Multi_f2s/multi_bit_f2s/tb_multi_bit_f2s.v" into library xil_defaultlib
+WARNING: [VRFC 10-159] /* in comment [E:/Project/Code/CDC/Multi_Bit/Multi_f2s/multi_bit_f2s/tb_multi_bit_f2s.v:4]
+WARNING: [VRFC 10-159] /* in comment [E:/Project/Code/CDC/Multi_Bit/Multi_f2s/multi_bit_f2s/tb_multi_bit_f2s.v:5]
+WARNING: [VRFC 10-159] /* in comment [E:/Project/Code/CDC/Multi_Bit/Multi_f2s/multi_bit_f2s/tb_multi_bit_f2s.v:6]
+WARNING: [VRFC 10-159] /* in comment [E:/Project/Code/CDC/Multi_Bit/Multi_f2s/multi_bit_f2s/tb_multi_bit_f2s.v:7]
+WARNING: [VRFC 10-159] /* in comment [E:/Project/Code/CDC/Multi_Bit/Multi_f2s/multi_bit_f2s/tb_multi_bit_f2s.v:8]
+WARNING: [VRFC 10-159] /* in comment [E:/Project/Code/CDC/Multi_Bit/Multi_f2s/multi_bit_f2s/tb_multi_bit_f2s.v:9]
+WARNING: [VRFC 10-159] /* in comment [E:/Project/Code/CDC/Multi_Bit/Multi_f2s/multi_bit_f2s/tb_multi_bit_f2s.v:10]
+INFO: [VRFC 10-311] analyzing module tb_multi_bit_f2s

@@ -1,0 +1,20 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/Project/Code/CDC/Single_Bit/Handshake_Sync/Handshake_Sync.v" into library xil_defaultlib
+WARNING: [VRFC 10-159] /* in comment [G:/Project/Code/CDC/Single_Bit/Handshake_Sync/Handshake_Sync.v:4]
+WARNING: [VRFC 10-159] /* in comment [G:/Project/Code/CDC/Single_Bit/Handshake_Sync/Handshake_Sync.v:5]
+WARNING: [VRFC 10-159] /* in comment [G:/Project/Code/CDC/Single_Bit/Handshake_Sync/Handshake_Sync.v:6]
+WARNING: [VRFC 10-159] /* in comment [G:/Project/Code/CDC/Single_Bit/Handshake_Sync/Handshake_Sync.v:7]
+WARNING: [VRFC 10-159] /* in comment [G:/Project/Code/CDC/Single_Bit/Handshake_Sync/Handshake_Sync.v:8]
+WARNING: [VRFC 10-159] /* in comment [G:/Project/Code/CDC/Single_Bit/Handshake_Sync/Handshake_Sync.v:9]
+WARNING: [VRFC 10-159] /* in comment [G:/Project/Code/CDC/Single_Bit/Handshake_Sync/Handshake_Sync.v:10]
+WARNING: [VRFC 10-159] /* in comment [G:/Project/Code/CDC/Single_Bit/Handshake_Sync/Handshake_Sync.v:11]
+INFO: [VRFC 10-311] analyzing module Handshake_Sync
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/Project/Code/CDC/Single_Bit/Handshake_Sync/tb_Handshake_Sync.v" into library xil_defaultlib
+WARNING: [VRFC 10-159] /* in comment [G:/Project/Code/CDC/Single_Bit/Handshake_Sync/tb_Handshake_Sync.v:4]
+WARNING: [VRFC 10-159] /* in comment [G:/Project/Code/CDC/Single_Bit/Handshake_Sync/tb_Handshake_Sync.v:5]
+WARNING: [VRFC 10-159] /* in comment [G:/Project/Code/CDC/Single_Bit/Handshake_Sync/tb_Handshake_Sync.v:6]
+WARNING: [VRFC 10-159] /* in comment [G:/Project/Code/CDC/Single_Bit/Handshake_Sync/tb_Handshake_Sync.v:7]
+WARNING: [VRFC 10-159] /* in comment [G:/Project/Code/CDC/Single_Bit/Handshake_Sync/tb_Handshake_Sync.v:8]
+WARNING: [VRFC 10-159] /* in comment [G:/Project/Code/CDC/Single_Bit/Handshake_Sync/tb_Handshake_Sync.v:9]
+INFO: [VRFC 10-311] analyzing module tb_Handshake_Sync
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/Project/Code/CDC/Single_Bit/Handshake_Sync/Handshake_Sync/Handshake_Sync.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

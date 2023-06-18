@@ -1,0 +1,7 @@
+Running: xsim.dir/tb_single_f2s_behav/xsimk.exe -simmode gui -wdb tb_single_f2s_behav.wdb -simrunnum 0 -socket 10007
+Design successfully loaded
+Design Loading Memory Usage: 7616 KB (Peak: 7616 KB)
+Design Loading CPU Usage: 77 ms
+Simulation completed
+Simulation Memory Usage: 8152 KB (Peak: 8152 KB)
+Simulation CPU Usage: 109 ms

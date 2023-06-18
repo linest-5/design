@@ -1,0 +1,11 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Project/Code/CDC/Multi_Bit/Multi_f2s/Multi_f2s_fifo/multi_f2s_fifo/multi_f2s_fifo.gen/sources_1/ip/fifo_generator_0/sim/fifo_generator_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fifo_generator_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Project/Code/CDC/Multi_Bit/Multi_f2s/Multi_f2s_fifo/tb_multi_f2s_fifo.v" into library xil_defaultlib
+WARNING: [VRFC 10-159] /* in comment [E:/Project/Code/CDC/Multi_Bit/Multi_f2s/Multi_f2s_fifo/tb_multi_f2s_fifo.v:4]
+WARNING: [VRFC 10-159] /* in comment [E:/Project/Code/CDC/Multi_Bit/Multi_f2s/Multi_f2s_fifo/tb_multi_f2s_fifo.v:5]
+WARNING: [VRFC 10-159] /* in comment [E:/Project/Code/CDC/Multi_Bit/Multi_f2s/Multi_f2s_fifo/tb_multi_f2s_fifo.v:6]
+WARNING: [VRFC 10-159] /* in comment [E:/Project/Code/CDC/Multi_Bit/Multi_f2s/Multi_f2s_fifo/tb_multi_f2s_fifo.v:7]
+WARNING: [VRFC 10-159] /* in comment [E:/Project/Code/CDC/Multi_Bit/Multi_f2s/Multi_f2s_fifo/tb_multi_f2s_fifo.v:8]
+WARNING: [VRFC 10-159] /* in comment [E:/Project/Code/CDC/Multi_Bit/Multi_f2s/Multi_f2s_fifo/tb_multi_f2s_fifo.v:9]
+WARNING: [VRFC 10-159] /* in comment [E:/Project/Code/CDC/Multi_Bit/Multi_f2s/Multi_f2s_fifo/tb_multi_f2s_fifo.v:10]
+INFO: [VRFC 10-311] analyzing module tb_multi_f2s_fifo
